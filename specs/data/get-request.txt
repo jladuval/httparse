@@ -1,0 +1,18 @@
+GET /voyager/api/feed/updates?count=7&moduleKey=home-feed%3Adesktop&paginationToken=164869650-1485817589770-be32beff8e4da554a7066e66b61104c8&q=findFeed&start=3 HTTP/1.1
+Host: www.linkedin.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+X-LI-Track: {"clientVersion":"1.0.*","osName":"web","clientTimestamp":1485817598383,"timezoneOffset":13,"deviceFormFactor":"DESKTOP"}
+X-LI-Lang: en_US
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+X-li-page-instance: urn:li:page:d_flagship3_feed;hDC5XrFFQSuokUPJjZqQpQ==
+Accept: application/vnd.linkedin.normalized+json
+Csrf-Token: ajax:4349401922835365131
+X-RestLi-Protocol-Version: 2.0.0
+X-Requested-With: XMLHttpRequest
+Referer: https://www.linkedin.com/
+Accept-Encoding: gzip, deflate, sdch, br
+Avail-Dictionary: YFA7RCTS
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+

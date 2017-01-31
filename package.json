@@ -1,0 +1,33 @@
+{
+  "name": "httparse",
+  "version": "0.0.1",
+  "description": "Convert raw http data to json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index.js",
+    "test": "node --harmony-async-await node_modules/.bin/ava --concurrency 5 $(find ./ -iname '*.spec.js')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jladuval/httparse.git"
+  },
+  "keywords": [
+    "raw",
+    "http",
+    "json",
+    "parse"
+  ],
+  "author": "Jacob Duval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jladuval/httparse/issues"
+  },
+  "homepage": "https://github.com/jladuval/httparse#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "ramda": "^0.23.0"
+  }
+}

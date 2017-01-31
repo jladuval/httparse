@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: Play
+Content-Encoding: gzip
+X-LI-Server-Time: 103
+X-Li-Content-Length: 374
+Date: Mon, 30 Jan 2017 23:06:38 GMT
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Li-Fabric: prod-lor1
+Strict-Transport-Security: max-age=0
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache, no-store
+X-Li-Pop: prod-esy1
+X-LI-UUID: +/H7wTuvnhRAYQh3GysAAA==
+Transfer-Encoding: chunked
+Connection: Keep-alive
+
+{"responses":{"mynetwork":{"headers":{"X-LI-Server-Time":"24","Content-Type":"application/vnd.linkedin.normalized+json","X-RestLi-Protocol-Version":"2.0.0"},"body":{"data":{"$deletedFields":[],"count":0,"$type":"com.linkedin.voyager.common.BadgeCount","$id":"tS2Fl1p6lKFGnMZQCnVNtg==,root"},"included":[]},"status":200},"feed":{"headers":{"X-LI-Server-Time":"93","Content-Type":"application/vnd.linkedin.normalized+json","X-RestLi-Protocol-Version":"2.0.0"},"body":{"data":{"$deletedFields":[],"count":0,"$type":"com.linkedin.voyager.common.BadgeCount","$id":"uxe6ZQr5PnCorQO1w9cDrQ==,root"},"included":[]},"status":200},"notifications":{"headers":{"X-LI-Server-Time":"28","Content-Type":"application/vnd.linkedin.normalized+json","X-RestLi-Protocol-Version":"2.0.0"},"body":{"data":{"$deletedFields":[],"count":0,"$type":"com.linkedin.voyager.common.BadgeCount","$id":"dYdHm6sHRJv8RJ3n49bAVQ==,root"},"included":[]},"status":200},"messaging":{"headers":{"X-LI-Server-Time":"50","Content-Type":"application/vnd.linkedin.normalized+json","X-RestLi-Protocol-Version":"2.0.0"},"body":{"data":{"$deletedFields":[],"count":1,"$type":"com.linkedin.voyager.common.BadgeCount","$id":"VC6ULeFhYfA10NqIw8vpKw==,root"},"included":[]},"status":200}}}

@@ -1,0 +1,20 @@
+POST /voyager/api/mux HTTP/1.1
+Host: www.linkedin.com
+Connection: keep-alive
+Content-Length: 355
+Pragma: no-cache
+Cache-Control: no-cache
+X-LI-Track: {"clientVersion":"1.0.*","osName":"web","clientTimestamp":1485817598225,"timezoneOffset":13,"deviceFormFactor":"DESKTOP"}
+Origin: https://www.linkedin.com
+X-LI-Lang: en_US
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+X-li-page-instance: urn:li:page:d_flagship3_feed;hDC5XrFFQSuokUPJjZqQpQ==
+Content-Type: text/plain;charset=UTF-8
+Accept: application/vnd.linkedin.normalized+json
+Csrf-Token: ajax:4349401922835365131
+X-RestLi-Protocol-Version: 2.0.0
+Referer: https://www.linkedin.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+
+{"requests":{"feed":{"method":"GET","relativeUrl":"/feed/badge?countFrom=0&queryAfterTime=1485817590283"},"mynetwork":{"method":"GET","relativeUrl":"/relationships/badge?countFrom=0&includeProps=false"},"messaging":{"method":"GET","relativeUrl":"/messaging/badge?countFrom=0"},"notifications":{"method":"GET","relativeUrl":"/identity/badge?countFrom=0"}}}
